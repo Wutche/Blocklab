@@ -1,11 +1,8 @@
-import Navbar from "../components/Navbar";
-
 const Article = () => {
   return (
     <>
-      <Navbar />
+      <h1>Articles</h1>
     </>
-  );
+  )
 }
-
 export default Article;
